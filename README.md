@@ -1,4 +1,3 @@
-
 # EXTINF : -1 , beINSports-fr1
 http://iptv.am000.tv:8000/live/add17/add17/16.ts
 # EXTINF : -1 , beINSports-fr2
@@ -25,4 +24,3 @@ http://iptv.am000.tv:8000/live/add17/add17/648.ts
 http://iptv.am000.tv:8000/live/add17/add17/646.ts
 # EXTINF : -1 , DUBAISPART-4
 http://iptv.am000.tv:8000/live/add17/add17/647.ts
-# 
